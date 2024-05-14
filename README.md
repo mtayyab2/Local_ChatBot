@@ -1,12 +1,7 @@
 # Local_ChatBot
 A Chatbot application that uses open-source LLMs for chatting that can be used for General Chat, Code Generation, and all other use cases of Chatbots like ChatGPT.
 
-# Local Chatbot using OLLAMA AI and Streamlit
 
-This README provides instructions on how to set up and interact with the local chatbot developed using
-[OLLAMA](https://github.com/OLLAMAI) for natural language understanding and [Streamlit](https://streamlit.io/) for
-creating a user-friendly interface. Features include selecting models, viewing chat history, saving chats, and
-initiating new conversations.
 
 ## Prerequisites
 
@@ -23,8 +18,15 @@ Follow these steps to set up and run the chatbot locally:
 
 ### Clone Repository
 
-Clone this repository to your local machine. Then navigate into the project directory and execute the following
-command to start a Streamlit app:
+Clone this repository to your local machine. 
+```bash
+git clone https://github.com/mtayyab2/Local_ChatBot/
+```
+Then navigate into the project directory:
+```bash
+cd Local_ChatBot
+```
+Execute the following command to start the Chatbot:
 
 ```bash
 streamlit run app.py
