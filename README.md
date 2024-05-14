@@ -5,7 +5,7 @@ A Chatbot application that uses open-source LLMs for chatting that can be used f
 
   <video width="560" height="315" controls>
 
-    <source src="Local_ChatBot/chat.mp4" type="video/mp4">
+    <source src="chat.mp4" type="video/mp4">
 
     Your browser does not support the video tag.
 
