@@ -1,7 +1,12 @@
 # Local_ChatBot
 A Chatbot application that uses open-source LLMs for chatting that can be used for General Chat, Code Generation, and all other use cases of Chatbots like ChatGPT.
 
+<div align="center">
 
+  <iframe width="560" height="315" src="chat.mp4" frameborder="0"
+allowfullscreen></iframe>
+
+</div>
 
 ## Prerequisites
 
