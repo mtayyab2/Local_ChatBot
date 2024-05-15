@@ -32,7 +32,7 @@ cd Local_ChatBot
 Execute the following command to start the Chatbot:
 
 ```bash
-streamlit run chat.py
+streamlit run local_chat.py
 ```
 
 ## Features Overview
