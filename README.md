@@ -1,18 +1,7 @@
 # Local_ChatBot
 A Chatbot application that uses open-source LLMs for chatting that can be used for General Chat, Code Generation, and all other use cases of Chatbots like ChatGPT.
 
-<div align="center">
-
-  <video width="560" height="315" controls>
-
-    <source src="main/chat.mp4" type="video/mp4">
-
-    Your browser does not support the video tag.
-
-  </video>
-
-</div>
-
+https://github.com/mtayyab2/Local_ChatBot/assets/100469515/06243bcc-9c8b-4335-933a-37363333a54d
 ## Prerequisites
 
 To get started with this project:
