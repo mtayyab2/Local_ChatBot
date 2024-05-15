@@ -1,7 +1,11 @@
 # Local_ChatBot
 A Chatbot application that uses open-source LLMs for chatting that can be used for General Chat, Code Generation, and all other use cases of Chatbots like ChatGPT.
 
+Following Video shows the working of the chatbot. The response is very fast on a local PC with 16gb DDR4 Ram and an RTX 3060m with Microsoft [Phi3](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct) model.
+
 https://github.com/mtayyab2/Local_ChatBot/assets/100469515/06243bcc-9c8b-4335-933a-37363333a54d
+
+
 ## Prerequisites
 
 To get started with this project:
@@ -28,7 +32,7 @@ cd Local_ChatBot
 Execute the following command to start the Chatbot:
 
 ```bash
-streamlit run app.py
+streamlit run chat.py
 ```
 
 ## Features Overview
