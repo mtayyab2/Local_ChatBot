@@ -7,6 +7,7 @@ https://github.com/mtayyab2/Local_ChatBot/assets/100469515/06243bcc-9c8b-4335-93
 
 
 ## Prerequisites
+### This repo assumes that you already have [Ollama](https://ollama.com/) and [Phi3](https://ollama.com/library/phi3) model installed.
 
 To get started with this project:
 1. Have Python installed on your machine (version 3.6 or above).
